@@ -1,32 +1,31 @@
-name: Your Blog
+name: Gabrs
 tagline: Things you talk about
 url: https://gabr-edrdo.github.io/blog
+enable_search: true
 menu:
   - ["About", "about.html"]
-  - ["Pages", "pages.html"]
+  - ["Archive", "archive.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Github", "https://github.com/gabr-edrdo/"]
 extra:
   comments:
     title: Comments
     source: |
-        <script src="https://giscus.app/client.js"
-        data-repo="gabr-edrdo/blog"
-        data-repo-id="R_kgDONLj5BA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDONLj5BM4CkC2z"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="pt"
-        crossorigin="anonymous"
-        async>
-        </script>
-
+      <script src="https://giscus.app/client.js"
+      data-repo="gabr-edrdo/blog"
+      data-repo-id="R_kgDONLj5BA"
+      data-category="Announcements"
+      data-category-id="DIC_kwDONLj5BM4CkC2z"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="preferred_color_scheme"
+      data-lang="pt"
+      crossorigin="anonymous"
+      async>
+      </script>
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
