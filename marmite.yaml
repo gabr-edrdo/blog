@@ -1,10 +1,10 @@
-name: Gabrs
-tagline: Things you talk about
+name: G-PUNK
+tagline: bit a bit
 url: https://gabr-edrdo.github.io/blog
 enable_search: true
 menu:
-  - ["About", "about.html"]
-  - ["Archive", "archive.html"]
+  - ["Sobre", "about.html"]
+  - ["Arquivo", "archive.html"]
   - ["Tags", "tags.html"]
   - ["Github", "https://github.com/gabr-edrdo/"]
 extra:
