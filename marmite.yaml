@@ -1,12 +1,9 @@
 name: Cipher Demo
 tagline: Proverbs 2:6
-url: https://YOURUSER.github.io/blogs
+url: https://YOURUSER.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - [
-      "Follow me",
-      "https://www.linkedin.com/in/gabriel-eduardo-santoro-de-araujo-a06308262/",
-    ]
+  - ["Follow me","https://www.linkedin.com/in/gabriel-eduardo-santoro-de-araujo-a06308262/"]
   - ["Github", "http://github.com/gabr-edrdo"]
