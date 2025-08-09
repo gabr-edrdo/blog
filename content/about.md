@@ -7,4 +7,4 @@ Currently, I’m focused on web development and artificial intelligence, buildin
 
 > Building solutions, one line of code at a time ✨
 
-`Node.js` `PHP` `Python` `SQL`
+`JS` `TS` `PHP` `Python` `SQL`
