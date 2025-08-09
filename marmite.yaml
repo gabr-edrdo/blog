@@ -6,6 +6,6 @@ menu:
   - ['Archive', 'archive.html']
   - ["Tags", "tags.html"]
   - ["LinkedIn","https://www.linkedin.com/in/gabriel-eduardo-santoro-de-araujo-a06308262/?locale=en_US"]
-  - ["Github", "http://github.com/gabr-edrdo"]
+  - ["Github", "https://github.com/gabr-edrdo"]
 pagination: 10
 enable_search: true
