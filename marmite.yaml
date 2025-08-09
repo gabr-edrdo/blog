@@ -7,5 +7,5 @@ menu:
   - ["Tags", "tags.html"]
   - ["Follow me","https://www.linkedin.com/in/gabriel-eduardo-santoro-de-araujo-a06308262/?locale=en_US"]
   - ["Github", "http://github.com/gabr-edrdo"]
-search:
-  enable: true
+pagination: 10
+enable_search: true
