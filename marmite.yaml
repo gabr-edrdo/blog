@@ -3,9 +3,9 @@ tagline: Ctrl+Alt+MyTake <br> <small>easy peasy lemon squeezy</small>
 url: www.gabredrdo.dev.br
 menu:
   - ["About", "about.html"]
-  - ["Pages", "pages.html"]
+  - ['Archive', 'archive.html']
   - ["Tags", "tags.html"]
-  - ["Follow me","https://www.linkedin.com/in/gabriel-eduardo-santoro-de-araujo-a06308262/?locale=en_US"]
+  - ["LinkedIn","https://www.linkedin.com/in/gabriel-eduardo-santoro-de-araujo-a06308262/?locale=en_US"]
   - ["Github", "http://github.com/gabr-edrdo"]
 pagination: 10
 enable_search: true
