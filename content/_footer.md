@@ -1,1 +1,1 @@
-Ctrl+Alt+MyTake © 2025 Gabriel | [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<small style="text-align: center;">Ctrl+Alt+MyTake © 2025 Gabriel | [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)</small>
